@@ -7,7 +7,12 @@ This Power BI report provides an analysis of the profit for the Sample Super Sto
 -Sales by Sub-Category: Displays the sales and profit by sub-category in a treemap.
 -Top Customers: Shows the top customers by sales and profit in a table.
 
-#Getting Started
+![image](https://github.com/Aftabbs/PowerBI-DashBoard-on-Profit-Report/assets/112916888/bf4639c7-d8fe-4a0b-aa32-c2b849b20738)
+![image](https://github.com/Aftabbs/PowerBI-DashBoard-on-Profit-Report/assets/112916888/7b21f8c5-227c-4ef5-ac9e-df0bcca3c286)
+
+
+
+# Getting Started
 To use this report, you'll need to have Power BI Desktop installed on your computer. You can download Power BI Desktop for free from the Microsoft website.
 
 Once you have Power BI Desktop installed, you can open the Sample-Superstore.pbix file and explore the report. You can also customize the report to suit your needs by modifying the visuals, filters, and data model.
